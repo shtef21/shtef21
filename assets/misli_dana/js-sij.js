@@ -1,0 +1,16 @@
+if (document.body.classList.contains("home"))
+{
+    let UBDM_popis=[{"ev":"Lk 2, 16-21","mis":"Pronađoše Mariju, Josipa i novorođenče. Nadjenuše mu ime Isus.","dat":"1.1."},{"ev":"Iv 1, 19-28","mis":"Za mnom dolazi koji je preda mnom.","dat":"2.1."},{"ev":"Iv 1, 1-18","mis":"Riječ tijelom postade i nastani se među nama.","dat":"3.1."},{"ev":"Iv 1, 35-42","mis":"Našli smo Mesiju.","dat":"4.1."},{"ev":"Iv 1, 43-51","mis":"Ti si Sin Božji, Kralj Izraelov!","dat":"5.1."},{"ev":"Mt 2, 1-12","mis":"Dođosmo s istoka pokloniti se kralju.","dat":"6.1."},{"ev":"Mt 4, 12-17.23-25","mis":"Približilo se kraljevstvo nebesko.","dat":"7.1."},{"ev":"Mk 6, 34-44","mis":"Isus umnaža kruh i očituje se kao prorok.","dat":"8.1."},{"ev":"Mk 6, 45-52","mis":"Vidješe ga kako hodi po moru.","dat":"9.1."},{"ev":"Mk 1, 7-11","mis":"Ti si Sin moj, ljubljeni! U tebi mi sva milina.","dat":"10.1."},{"ev":"Mk 1, 14-20","mis":"Obratite se i vjerujte evanđelju!","dat":"11.1."},{"ev":"Mk 1, 21-28","mis":"Učio ih je kao onaj koji ima vlast.","dat":"12.1."},{"ev":"Mk 1, 29-39","mis":"Ozdravio je mnoge koje su mučile razne bolesti.","dat":"13.1."},{"ev":"Mk 1, 40-45","mis":"I odmah nesta s njega gube i očisti se.","dat":"14.1."},{"ev":"Mk 2, 1-12","mis":"Vlastan je Sin Čovječji otpuštati grijehe na zemlji.","dat":"15.1."},{"ev":"Mk 2, 13-17","mis":"Nisam došao zvati pravednike, nego grješnike.","dat":"16.1."},{"ev":"Iv 1, 35-42","mis":"Vidješe gdje stanuje i ostadoše kod njega.","dat":"17.1."},{"ev":"Mk 2, 18-22","mis":"Zaručnik je s njima.","dat":"18.1."},{"ev":"Mk 2, 23-28","mis":"Subota je stvorena radi čovjeka, a ne čovjek radi subote.","dat":"19.1."},{"ev":"Mk 3, 1-6","mis":"Je li dopušteno subotom život spasiti ili pogubiti?","dat":"20.1."},{"ev":"Mk 3, 7-12","mis":"Nečisti su duhovi vikali: »Ti si Sin Božji!«","dat":"21.1."},{"ev":"Mk 3, 13-19","mis":"Pozva koje sam htjede da budu s njim.","dat":"22.1."},{"ev":"Mk 3, 20-21","mis":"Govorilo se: »Izvan sebe je!«","dat":"23.1."},{"ev":"Mk 1, 14-20","mis":"Obratite se i vjerujte evanđelju!","dat":"24.1."},{"ev":"Mk 16, 15-18","mis":"Pođite po svem svijetu, propovijedajte evanđelje.","dat":"25.1."},{"ev":"Mk 3, 31-35","mis":"Tko god vrši volju Božju, taj mi je brat i sestra i majka.","dat":"26.1."},{"ev":"Mk 4, 1-20","mis":"Iziđe sijač sijati.","dat":"27.1."},{"ev":"Mk 4, 21-25","mis":"Svjetiljka se unosi da se stavi na svijećnjak.","dat":"28.1."},{"ev":"Mk 4, 26-34","mis":"Baci sjeme i ode spavati, a sjeme raste — sam ne zna kako.","dat":"29.1."},{"ev":"Mk 4, 35-41","mis":"Tko li je ovaj da mu se i vjetar i more pokoravaju?","dat":"30.1."},{"ev":"Mk 1, 21-28","mis":"Učio ih je kao onaj koji ima vlast.","dat":"31.1."}];
+
+    let d = new Date();
+
+    let UBDM_el = UBDM_popis[d.getDate()-1];
+    let UBDM_auth = UBDM_el.ev.split(" ")[0];
+    UBDM_auth = UBDM_auth == "Mt" ? "Mateju" : UBDM_auth == "Mk" ? "Marku" : UBDM_auth == "Lk" ? "Luki" : UBDM_auth == "Iv" ? "Ivanu" : "";
+
+    document.body.querySelector(".cover-section .cover-title").innerText = "\"" + UBDM_el.mis + "\"";
+    document.body.querySelector(".cover-section .cover-description").innerText = "Neka te Riječ nedjeljnog evanđelja po " + UBDM_auth +
+        " vodi kroz tjedan" +
+        "\n(" + UBDM_el.dat + " - " + UBDM_el.ev + ")";
+}
+

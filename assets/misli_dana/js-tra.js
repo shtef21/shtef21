@@ -1,0 +1,16 @@
+if (document.body.classList.contains("home"))
+{
+    let UBDM_popis=[{"ev":"Iv 13, 1-15","mis":"Do kraja ih je ljubio.","dat":"1.4."},{"ev":"Iv 18, 1 – 19, 42","mis":"Muka Gospodina našega Isusa Krista.","dat":"2.4."},{"ev":"Mk 16, 1-7","mis":"Isus Nazarećanin raspeti uskrsnu!","dat":"3.4."},{"ev":"Iv 20, 1-9","mis":"Trebalo je da Isus ustane od mrtvih.","dat":"4.4."},{"ev":"Mt 28, 8-15","mis":"Idite javite mojoj braći da pođu u Galileju. Ondje će me vidjeti.","dat":"5.4."},{"ev":"Iv 20, 11-18","mis":"Vidjela sam Gospodina i on mi je to rekao.","dat":"6.4."},{"ev":"Lk 24, 13-35","mis":"Prepoznaše ga u lomljenju kruha.","dat":"7.4."},{"ev":"Lk 24, 35-48","mis":"Trebalo je da Krist trpi i treći dan ustane od mrtvih.","dat":"8.4."},{"ev":"Iv 21, 1-14","mis":"Isus pristupi, uze kruh i dade im, a tako i ribu.","dat":"9.4."},{"ev":"Mk 16, 9-15","mis":"Pođite po svem svijetu, propovijedajte evanđelje!","dat":"10.4."},{"ev":"Iv 20, 19-31","mis":"Nakon osam dana dođe Isus, stane u sredinu i reče: »Mir vama!«","dat":"11.4."},{"ev":"Iv 3, 1-8","mis":"Tko se ne rodi nanovo, ne može vidjeti kraljevstva Božjega!","dat":"12.4."},{"ev":"Iv 3, 7b-15","mis":"Nitko nije uzašao na nebo doli onaj koji siđe s neba, Sin Čovječji.","dat":"13.4."},{"ev":"Iv 3, 16-21","mis":"Bog je poslao Sina da se svijet spasi po njemu.","dat":"14.4."},{"ev":"Iv 3, 31-36","mis":"Otac ljubi Sina i sve je predao u ruku njegovu.","dat":"15.4."},{"ev":"Iv 6, 1-15","mis":"Onima koji su sjedili, razdijeli koliko god su htjeli.","dat":"16.4."},{"ev":"Iv 6, 16-21","mis":"Ugledaju Isusa gdje ide po moru.","dat":"17.4."},{"ev":"Lk 24, 35-48","mis":"Trebalo je da Krist sve to pretrpi i treći dan uskrsne od mrtvih.","dat":"18.4."},{"ev":"Iv 6, 22-29","mis":"Radite, ali ne za hranu propadljivu, nego za hranu koja ostaje za život vječni!","dat":"19.4."},{"ev":"Iv 6, 30-35","mis":"Ne Mojsije, nego Otac moj daje kruh s neba, kruh istinski.","dat":"20.4."},{"ev":"Iv 6, 35-40","mis":"Volja je Oca mojega da tko god vidi Sina, ima život vječni.","dat":"21.4."},{"ev":"Iv 6, 44-51","mis":"Ja sam kruh živi koji je s neba sišao.","dat":"22.4."},{"ev":"Iv 6, 52-59","mis":"Tijelo je moje jelo istinsko, krv je moja piće istinsko.","dat":"23.4."},{"ev":"Iv 6, 60-69","mis":"Kome da idemo? Ti imaš riječi života vječnoga.","dat":"24.4."},{"ev":"Iv 10, 11-18","mis":"Pastir dobri život svoj polaže za ovce.","dat":"25.4."},{"ev":"Iv 10, 1-10","mis":"Ja sam vrata ovcama.","dat":"26.4."},{"ev":"Iv 10, 22-30","mis":"Ja i Otac jedno smo.","dat":"27.4."},{"ev":"Iv 12, 44-50","mis":"Ja — Svjetlost — dođoh na svijet.","dat":"28.4."},{"ev":"Mt 11, 25-30","mis":"Sakrio si ovo od mudrih i umnih, a objavio malenima.","dat":"29.4."},{"ev":"Iv 14, 1-6","mis":"Ja sam Put i Istina i Život.","dat":"30.4."}];
+
+    let d = new Date();
+
+    let UBDM_el = UBDM_popis[d.getDate()-1];
+    let UBDM_auth = UBDM_el.ev.split(" ")[0];
+    UBDM_auth = UBDM_auth == "Mt" ? "Mateju" : UBDM_auth == "Mk" ? "Marku" : UBDM_auth == "Lk" ? "Luki" : UBDM_auth == "Iv" ? "Ivanu" : "";
+
+    document.body.querySelector(".cover-section .cover-title").innerText = "\"" + UBDM_el.mis + "\"";
+    document.body.querySelector(".cover-section .cover-description").innerText = "Neka te Riječ nedjeljnog evanđelja po " + UBDM_auth +
+        " vodi kroz tjedan" +
+        "\n(" + UBDM_el.dat + " - " + UBDM_el.ev + ")";
+}
+
