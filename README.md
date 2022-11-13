@@ -1,9 +1,9 @@
 Hello, I’m @shtef21!
 
-I am a...
-- 💻 Back-end developer mainly working on ASP .NET
-- 📫 [Medium](https://medium.com/@shtef21) writer
-- 🏭 The creator of [hiza.engine](https://github.com/nevenpalcec/hiza_js) architecture - [DEMO](https://app.my-rents.com/web/hiza-tutorial.html)
+I am...
+- 💻 a back-end developer mainly working on ASP .NET
+- 📫 a [Medium](https://medium.com/@shtef21) writer
+- 🏭 the creator of [hiza.engine](https://github.com/nevenpalcec/hiza_js) architecture - [DEMO](https://app.my-rents.com/web/hiza-tutorial.html)
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
