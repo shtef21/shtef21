@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @shtef21
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently working on .NET
-- 🖽 I'm the creator of [hiza.engine](https://github.com/nevenpalcec/hiza_js) architecture
-- 📫 Reach me on [Medium](https://medium.com/@shtef21)
+Hello, I’m @shtef21!
+
+I am a...
+- 💻 back-end developer
+- 📫 [Medium](https://medium.com/@shtef21) writer
+- 🏭 the creator of [hiza.engine](https://github.com/nevenpalcec/hiza_js) architecture
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
