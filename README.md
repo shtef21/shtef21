@@ -1,6 +1,7 @@
 Hello, I’m @shtef21!
 
 I am...
+-  a student of [Zagreb University of Technology](https://www.tvz.hr/)
 - 💻 a back-end developer mainly working on ASP .NET
 - 📫 a [Medium](https://medium.com/@shtef21) writer
 - 🏭 the creator of [hiza.engine](https://github.com/nevenpalcec/hiza_js) architecture - [DEMO](https://app.my-rents.com/web/hiza-tutorial.html)
