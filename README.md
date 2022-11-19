@@ -4,7 +4,8 @@ I am...
 - 👨‍🎓 a student of [Zagreb University of Technology](https://www.tvz.hr/)
 - 💻 a back-end developer mainly working on ASP .NET
 - 📫 a [Medium](https://medium.com/@shtef21) writer
-- 🏭 co-creator of [hiza.js](https://github.com/nevenpalcec/hiza_js) and the creator of [hiza.engine](https://app.my-rents.com/web/hiza-tutorial.html) library
+- 🏭 co-creator of [hiza.js](https://github.com/nevenpalcec/hiza_js) library
+- 🛵 the creator of [hiza.engine](https://app.my-rents.com/web/hiza-tutorial.html) templating engine
 
 You may reach me on [LinkedIn](https://www.linkedin.com/in/stjepan-salopek-5a68a8256/).
 
