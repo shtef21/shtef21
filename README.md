@@ -12,19 +12,16 @@ or check out my [personal site](https://ssalopek.me/)
 
 
 
-#### Personal projects
+## Personal projects
 
-You may check out my personal project in the repositories.
-
-Aside from that, there is also...
+You may check out my personal project in the repositories. Aside from those projects, there is also...
 
 
 
-###### Local parish website
+### Local parish website
 
-I've created and have been running a local parish website since 2020.
+I've created and have been running a local parish website since 2020. Check it out: [www.zupa-ubdm-nart-savski.hr](https://www.zupa-ubdm-nart-savski.hr)
 
-Check it out: [www.zupa-ubdm-nart-savski.hr](https://www.zupa-ubdm-nart-savski.hr)
 ![Web preview](assets/parish-web.png)
 
 
