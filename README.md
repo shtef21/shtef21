@@ -10,6 +10,25 @@ I am...
 You may reach me on [LinkedIn](https://www.linkedin.com/in/stjepan-salopek-5a68a8256/),
 or check out my [personal site](https://ssalopek.me/)
 
+
+
+#### Personal projects
+
+You may check out my personal project in the repositories.
+
+Aside from that, there is also...
+
+
+
+###### Local parish website
+
+I've created and have been running a local parish website since 2020.
+
+Check it out: [www.zupa-ubdm-nart-savski.hr](https://www.zupa-ubdm-nart-savski.hr)
+![Web preview](assets/parish-web.png)
+
+
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
