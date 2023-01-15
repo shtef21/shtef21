@@ -22,7 +22,7 @@ You may check out my personal project in the repositories. Aside from those proj
 
 I've created and have been running a local parish website since 2020. Check it out: [www.zupa-ubdm-nart-savski.hr](https://www.zupa-ubdm-nart-savski.hr)
 
-![Web preview](assets/parish-web.png)
+<img alt="Web preview" src="assets/parish-web.png" style="width: 500px;">
 
 
 
