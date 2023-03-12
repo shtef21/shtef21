@@ -12,7 +12,7 @@ or check out my [personal site](https://ssalopek.me/)
 
 
 
-## Personal projects
+## Projects
 
 You may check out my personal project in the repositories. Aside from those projects, there is also...
 
@@ -22,9 +22,17 @@ You may check out my personal project in the repositories. Aside from those proj
 
 I've created and have been running a local parish website since 2020. Check it out: [www.zupa-ubdm-nart-savski.hr](https://www.zupa-ubdm-nart-savski.hr)
 
-<img alt="Web preview" src="assets/parish-web.png" style="width: 500px;">
+<img alt="Web preview" src="assets/parish-web.png" style="width: 300px;">
 
+### Time keeper
 
+I've collaborated with
+[Marin](https://github.com/marinjurisich),
+[Luka](https://github.com/LukaSpoljar) and
+[Ivan](https://github.com/marinjurisich)
+on a project management / clock-in app called time keeper.
+
+[Check it out...](https://github.com/marinjurisich/timekeeper)
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
