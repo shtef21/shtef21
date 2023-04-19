@@ -1,3 +1,5 @@
+[![Stats](https://github-readme-stats.vercel.app/api?username=shtef21)](https://github.com/anuraghazra/github-readme-stats)
+
 Hello, I’m @shtef21!
 
 I am...
@@ -9,8 +11,6 @@ I am...
 
 You may reach me on [LinkedIn](https://www.linkedin.com/in/stjepan-salopek-5a68a8256/),
 or check out my [personal site](https://ssalopek.me/)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=shtef21)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
