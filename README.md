@@ -34,6 +34,13 @@ I've collaborated with
 [Ivan](https://github.com/marinjurisich)
 on a project management / clock-in app called time keeper.
 
+
+### CoffeeMS ([🔗 link](https://github.com/shtef21/CoffeeMS))
+
+I've collaborated with
+[Marin](https://github.com/marinjurisich)
+on a coffee place CMS app called CoffeeMS.
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
