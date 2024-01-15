@@ -49,6 +49,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+### A introductory paper on Video editing (mostly Croatian)
+
+Repo containg code and Word document: [py_video_demo](https://github.com/shtef21/py_video_demo)
+
+YouTube video: [Obrada videozapisa u Python programskom jeziku](https://www.youtube.com/watch?v=7vmLFBI3AIw)
+
+
+
 
 ## Local parish website ([🔗 link](https://www.zupa-ubdm-nart-savski.hr))
 
