@@ -23,7 +23,7 @@ You may check out my personal projects in. Some notable work includes...
 As part of a college course, I researched solving mazes using the A* algorithm.
 
 The linked repository contains the source code, research paper, and presentation.
-I created and presented both the paper and the presentation for a Croatian audience.
+I created and presented both the paper and the presentation to a Croatian audience.
 
 
 ### Time keeper ([🔗 link](https://github.com/marinjurisich/timekeeper))
