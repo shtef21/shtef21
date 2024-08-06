@@ -10,7 +10,7 @@ I am...
 - 🛵 the creator of [hiza.engine](https://app.my-rents.com/web/hiza-tutorial.html) templating engine
 
 You may reach me on [LinkedIn](https://www.linkedin.com/in/stjepan-salopek-5a68a8256/),
-or check out my [personal site](https://ssalopek.me/).
+or check out my [personal site](https://shtef21.github.io/).
 
 
 # Projects
