@@ -3,7 +3,7 @@
 Hello, I’m @shtef21!
 
 I am...
-- 👨‍🎓 a student of [Zagreb University of Technology](https://www.tvz.hr/)
+- 👨‍🎓 an alumni of [Zagreb University of Technology](https://www.tvz.hr/)
 - 💻 a software developer working for [Ericsson Nikola Tesla](https://www.ericsson.hr/)
 - 📫 a [Medium](https://medium.com/@shtef21) writer
 - 🏭 co-creator of [hiza.js](https://github.com/nevenpalcec/hiza_js) library
